@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  font-size: 6rem;
+  color: #4ab19a;
+  margin-top: 0;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-weight: 200;
+  margin-bottom: auto;
+  /* font-size: 100px; */
+}
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  /* color: #11999E; */
+  color: #4ab19a;
+  font-size: 1.575rem;
+  line-height: 10px;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  padding: 20px;
+}
+.intro{
+  width: 45%;
+  margin: auto;
+  padding-bottom:  40px;
+  padding-top: 10px;
+}
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  right: 10%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+}
+
+.land-img {
+  margin-top: 60px;
+}
+
+.profile-img {
+  /* margin-top: 15px; */
+  width: 150px;
+}
+.skills{
+  margin-top: 60px;
+}
+.skill-row {
+  /* display: inline-block; */
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+p{
+  line-height: 2;
+}
+
+.skills-img {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-row-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+
+}
+.contact-me{
+  margin-top: 60px;
+  line-height: 3;
+}
+.contact-me p{
+  /* margin-bottom: 10px; */
+}
+.btn{
+  text-decoration: none;
+  border-radius: 8px;
+  color: white;
+  background-color: #4ab19a;
+
+  padding: 10px;
+  /* margin: 40px; */
+
+}
+.btn:hover{
+  background: #3cb0fd;
+
+ /* text-decoration: none; */
+}
+hr{
+  /* background-color: #; */
+  border-style: dotted none none;
+  border-color:#e0ebe8 ;
+  border-width: 10px;
+  /* height: 2px;   */
+  width: 6%;
+}
+.top-container {
+  background-color: #e0ebe8;
+  /* height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  padding: 20px; */
+}
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 30px;
+  padding: 50px;
+}
+.bottom-container p {
+  margin-top: 30px;
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact-me-p{
+  width: 40%;
+  margin: 20px auto 50px auto;
+}
